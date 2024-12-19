@@ -10,10 +10,9 @@ DateMeForm is a fun and engaging multi-page form built using HTML, CSS, and Java
 
 ## How to Use
 
-1. **Clone the Repository:**  Clone this repository to your local machine using `git clone [repository_url]`.
+1. **Clone the Repository:**  Clone this repository to your local machine using `git clone https://github.com/zaikanghel/DateMeForm.git`.
 2. **Open `index.html`:** Open the `index.html` file in your web browser.
 3. **Fill Out the Form:** Follow the instructions on each page and complete the form.
-4. **[Add instructions for submitting the form or viewing results]**:  Explain what happens when the user completes the form.  Does it submit data? Display a summary?
 
 
 ## Technologies Used
@@ -21,7 +20,6 @@ DateMeForm is a fun and engaging multi-page form built using HTML, CSS, and Java
 * **HTML:**  Provides the structure of the form.
 * **CSS:** Styles the form's visual appearance.
 * **JavaScript:**  Handles the form's interactivity and functionality (e.g., page transitions, data validation).
-  * [List any specific JavaScript libraries or frameworks used, e.g., React, jQuery, etc.]
 
 
 ## Contributing
